@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- Automatically generate package on build -->
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
@@ -11,7 +12,7 @@
     <PackageId>ConsoleHelpers</PackageId>
     <Version>1.0.0</Version>
     <Authors>Sean Rafferty</Authors>
-    <Company>Sean Raff</Company>
+    <Company>N/A</Company>
   </PropertyGroup>
 
 </Project>
